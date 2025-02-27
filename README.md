@@ -1,4 +1,4 @@
-*# Chatbot API**
+*# WikiBot**
 
 ![GitHub Repo](https://img.shields.io/github/repo-size/subramanyamkamboji/chatbot)
 ![GitHub License](https://img.shields.io/github/license/subramanyamkamboji/chatbot)
